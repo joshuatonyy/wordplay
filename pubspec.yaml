@@ -1,0 +1,25 @@
+name: ten10s_wordplay
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  freezed_annotation: ^2.0.3
+  json_annotation: ^4.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  freezed: ^2.0.3+1
+  build_runner: ^2.1.11
+  json_serializable: ^6.3.1
+
+flutter:
+  uses-material-design: true
